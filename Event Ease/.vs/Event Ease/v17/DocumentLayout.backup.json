@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\views\\venues\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:views\\venues\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:views\\events\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\views\\venues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:views\\venues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|c:\\users\\ivanb\\desktop\\new folder\\iie msa work\\y3s1\\cldv6211\\github repository\\cldv6211_poe\\event ease\\views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F546DB3-A971-46D4-85F6-46A8BB628CED}|Event Ease.csproj|solutionrelative:views\\events\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:25:03.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Venues\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Venues\\Details.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T21:04:32.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T21:06:22.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "Views\\Events\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T19:12:08.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Models\\Venue.cs",
+              "RelativeToolTip": "Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:24:03.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T20:34:30.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:28:07.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:47:33.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Models\\DBContext.cs",
+              "RelativeDocumentMoniker": "Models\\DBContext.cs",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Models\\DBContext.cs",
+              "RelativeToolTip": "Models\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:22:36.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Venues\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Venues\\Create.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T21:01:59.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Controllers\\EventsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:48:10.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:46:46.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VenuesController.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Controllers\\VenuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenuesController.cs",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Controllers\\VenuesController.cs",
+              "RelativeToolTip": "Controllers\\VenuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:57:52.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:24:36.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:07:49.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Events\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Events\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Events\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:50:07.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Events\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Events\\Details.cshtml",
+              "RelativeToolTip": "Views\\Events\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:53:54.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Events\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Events\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Events\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:54:11.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Venues\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ivanb\\Desktop\\New folder\\IIE MSA WORK\\Y3S1\\CLDV6211\\GitHub Repository\\CLDV6211_POE\\Event Ease\\Views\\Venues\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T21:03:36.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
